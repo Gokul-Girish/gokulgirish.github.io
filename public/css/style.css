@@ -26,7 +26,7 @@ body {
 nav.container {
     display: flex;
     justify-content: left; /* Centers the menu horizontally */
-    padding: 2rem 0 1rem;    /* Combined your padding values */
+    padding: 2rem 1rem 1rem;    /* Combined your padding values */
 }
 
 /* The List (ul) - This handles the horizontal layout and bullets */
@@ -35,7 +35,7 @@ nav.container {
     list-style: none;        /* Removes the bullets */
     padding: 0;
     margin: 0;
-    gap: 2.5rem;             /* Space between items */
+    gap: 1rem;             /* Space between items */
 }
 
 /* The Links (a) - This is where the bold magic happens */
