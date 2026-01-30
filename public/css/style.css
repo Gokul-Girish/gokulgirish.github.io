@@ -26,7 +26,7 @@ body {
 nav.container {
     display: flex;
     justify-content: left; /* Centers the menu horizontally */
-    padding: 2rem 1rem 1rem;    /* Combined your padding values */
+    padding: 2rem 1.25rem 1rem;    /* Combined your padding values */
 }
 
 /* The List (ul) - This handles the horizontal layout and bullets */
